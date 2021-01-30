@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/bertis-game/static/css/main.28eca5a8.chunk.css",
+    "main.js": "/bertis-game/static/js/main.ba908b7a.chunk.js",
+    "main.js.map": "/bertis-game/static/js/main.ba908b7a.chunk.js.map",
+    "runtime-main.js": "/bertis-game/static/js/runtime-main.f7682f88.js",
+    "runtime-main.js.map": "/bertis-game/static/js/runtime-main.f7682f88.js.map",
+    "static/js/2.fcbfd6f0.chunk.js": "/bertis-game/static/js/2.fcbfd6f0.chunk.js",
+    "static/js/2.fcbfd6f0.chunk.js.map": "/bertis-game/static/js/2.fcbfd6f0.chunk.js.map",
+    "static/js/3.ba36fb61.chunk.js": "/bertis-game/static/js/3.ba36fb61.chunk.js",
+    "static/js/3.ba36fb61.chunk.js.map": "/bertis-game/static/js/3.ba36fb61.chunk.js.map",
+    "index.html": "/bertis-game/index.html",
+    "static/css/main.28eca5a8.chunk.css.map": "/bertis-game/static/css/main.28eca5a8.chunk.css.map",
+    "static/js/2.fcbfd6f0.chunk.js.LICENSE.txt": "/bertis-game/static/js/2.fcbfd6f0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f7682f88.js",
+    "static/js/2.fcbfd6f0.chunk.js",
+    "static/css/main.28eca5a8.chunk.css",
+    "static/js/main.ba908b7a.chunk.js"
+  ]
+}
