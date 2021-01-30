@@ -1,0 +1,9 @@
+header {
+    background-color: antiquewhite;
+    padding: 3vh 0;
+    color: brown;
+}
+
+header h1 {
+    margin: 0 auto;
+}
