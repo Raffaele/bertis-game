@@ -1,22 +1,23 @@
 {
   "files": {
-    "main.css": "/bertis-game/static/css/main.28eca5a8.chunk.css",
-    "main.js": "/bertis-game/static/js/main.ba908b7a.chunk.js",
-    "main.js.map": "/bertis-game/static/js/main.ba908b7a.chunk.js.map",
-    "runtime-main.js": "/bertis-game/static/js/runtime-main.f7682f88.js",
-    "runtime-main.js.map": "/bertis-game/static/js/runtime-main.f7682f88.js.map",
-    "static/js/2.fcbfd6f0.chunk.js": "/bertis-game/static/js/2.fcbfd6f0.chunk.js",
-    "static/js/2.fcbfd6f0.chunk.js.map": "/bertis-game/static/js/2.fcbfd6f0.chunk.js.map",
-    "static/js/3.ba36fb61.chunk.js": "/bertis-game/static/js/3.ba36fb61.chunk.js",
-    "static/js/3.ba36fb61.chunk.js.map": "/bertis-game/static/js/3.ba36fb61.chunk.js.map",
+    "main.css": "/bertis-game/static/css/main.4d389808.chunk.css",
+    "main.js": "/bertis-game/static/js/main.cbfd9660.chunk.js",
+    "main.js.map": "/bertis-game/static/js/main.cbfd9660.chunk.js.map",
+    "runtime-main.js": "/bertis-game/static/js/runtime-main.dde4c257.js",
+    "runtime-main.js.map": "/bertis-game/static/js/runtime-main.dde4c257.js.map",
+    "static/js/2.fa5ea4df.chunk.js": "/bertis-game/static/js/2.fa5ea4df.chunk.js",
+    "static/js/2.fa5ea4df.chunk.js.map": "/bertis-game/static/js/2.fa5ea4df.chunk.js.map",
+    "static/js/3.68360d1c.chunk.js": "/bertis-game/static/js/3.68360d1c.chunk.js",
+    "static/js/3.68360d1c.chunk.js.map": "/bertis-game/static/js/3.68360d1c.chunk.js.map",
     "index.html": "/bertis-game/index.html",
-    "static/css/main.28eca5a8.chunk.css.map": "/bertis-game/static/css/main.28eca5a8.chunk.css.map",
-    "static/js/2.fcbfd6f0.chunk.js.LICENSE.txt": "/bertis-game/static/js/2.fcbfd6f0.chunk.js.LICENSE.txt"
+    "static/css/main.4d389808.chunk.css.map": "/bertis-game/static/css/main.4d389808.chunk.css.map",
+    "static/js/2.fa5ea4df.chunk.js.LICENSE.txt": "/bertis-game/static/js/2.fa5ea4df.chunk.js.LICENSE.txt",
+    "static/media/Bell2.e6df7849.wav": "/bertis-game/static/media/Bell2.e6df7849.wav"
   },
   "entrypoints": [
-    "static/js/runtime-main.f7682f88.js",
-    "static/js/2.fcbfd6f0.chunk.js",
-    "static/css/main.28eca5a8.chunk.css",
-    "static/js/main.ba908b7a.chunk.js"
+    "static/js/runtime-main.dde4c257.js",
+    "static/js/2.fa5ea4df.chunk.js",
+    "static/css/main.4d389808.chunk.css",
+    "static/js/main.cbfd9660.chunk.js"
   ]
 }
