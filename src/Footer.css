@@ -9,9 +9,13 @@ footer {
 .footer-btn {
     margin: 0 5vw;
     width: 40vw;
-    padding: 3vh 0;
-    font-size: 10vw;
+    font-size: 20vw;
     background-color: brown;
     color: antiquewhite;
     border-radius: 10px;
+}
+
+.footer-reset-btn>span {
+    transform: rotate(45deg);
+    display: inline-block;
 }

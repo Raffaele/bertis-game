@@ -1,16 +1,7 @@
 import './Main.css';
+import numbers from './numbers.json';
 
 function Main(props) {
-    const numbers = [
-        1000,
-        30,
-        1000,
-        30,
-        1000,
-        30,
-        1000,
-        10
-    ];
     const numbersToShow = numbers.slice(0, props.toShow);
     return <main>
         {numbersToShow.map((num, id) => {
